@@ -6,6 +6,7 @@ build/
 !**/src/test/**
 **/out/
 **/build/
+Calculator.iml
 
 ### STS ###
 .apt_generated
@@ -32,3 +33,4 @@ out/
 
 ### VS Code ###
 .vscode/
+/.idea/
